@@ -1,0 +1,23 @@
+{
+  "name": "dev-tinder-nodejs",
+  "version": "1.0.0",
+  "description": "replica of  the tinder for developer",
+  "homepage": "https://github.com/samdvn/dev-tinder-Nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/samdvn/dev-tinder-Nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samdvn/dev-tinder-Nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Samarjit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
